@@ -9,9 +9,9 @@
 [🐙 GitHub](https://github.julman.fr/github) <br/>
 [![](https://static.npmjs.com/da3ab40fb0861d15c83854c29f5f2962.png) NPM](https://github.julman.fr/npm)
 
-[![](https://github-readme-stats.vercel.app/api?username=JulMan-Dev)](https://github.julman.fr/github)
+[![](https://github-readme-stats.vercel.app/api?username=JulMan-Dev&show_icons=true&theme=tokyonight)](https://github.julman.fr/github)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulMan-Dev)](https://github.julman.fr/github)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulMan-Dev&show_icons=true&theme=tokyonight)](https://github.julman.fr/github)
 
 ```python
 display_skills()
