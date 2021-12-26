@@ -9,9 +9,9 @@
 [🐙 GitHub](https://github.julman.fr/github) <br/>
 [![](https://static.npmjs.com/da3ab40fb0861d15c83854c29f5f2962.png) NPM](https://github.julman.fr/npm)
 
-[![](https://github-readme-stats.vercel.app/api?username=JulMan-Dev&show_icons=true&theme=dark&border_color=ffffff&icon_color=ccff00)](https://github.julman.fr/github)
+[![](https://github-readme-stats.vercel.app/api?username=JulMan-Dev&show_icons=true&theme=midnight-purple)](https://github.julman.fr/github)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulMan-Dev&show_icons=true&theme=dark&border_color=ffffff&icon_color=ccff00)](https://github.julman.fr/github)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulMan-Dev&show_icons=true&theme=midnight-purple)](https://github.julman.fr/github)
 
 Hi 💁 ! It's JulMan ! I'm a french 🥖 developper and i love pasta 🍝. I'm developping [JulManBOT](https://l.julman.fr/click?target=http://bot.julman.fr/?rel=github) (a french Discord bot) and my [website](https://l.julman.fr/click?target=https://julman.fr/). You can join the JulManBOT Support Discord server (in french) [by clicking here](https://l.julman.fr/click?target=https%3A%2F%2Fdiscord.gg%2FUacZMU3fDt).
 
