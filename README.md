@@ -1,37 +1,42 @@
-<p align="center" style="margin-bottom: 0px !important;">
-  <a href="https://github.julman.fr"><img width="128" src="https://julman.fr/icon.png" alt="JulMan logo" align="center"></a>
-</p>
-<h1 align="center" style="margin-top: 0px;">JulMan</h1>
+# JulMan
 
-<p align="center">French Developper 🇫🇷</p>
+French student, developer 🇫🇷 — systems programming, embedded, and native apps.
+Pushing code to GitHub since age 12 — from Discord bots and Minecraft
+plugins to Rust internals today.
 
-[🐤 Twitter](https://github.julman.fr/twitter) <br/>
-[🐙 GitHub](https://github.julman.fr/github) <br/>
-[![](https://static.npmjs.com/da3ab40fb0861d15c83854c29f5f2962.png) NPM](https://github.julman.fr/npm)
+🔗 [Website](https://julman.fr) · 💻 [code.julman.fr](https://code.julman.fr) · 🐦 [@JulMan_Dev](https://twitter.com/JulMan_Dev)
 
-[![](https://github-readme-stats.vercel.app/api?username=JulMan-Dev&show_icons=true&theme=midnight-purple)](https://github.julman.fr/github)
+## What I work on
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulMan-Dev&show_icons=true&theme=midnight-purple)](https://github.julman.fr/github)
+Rust is my main tool — const generics, proc macros, FFI, `no_std`. I like
+projects that sit close to the metal: interpreters, JIT compilers, FFI
+bridges between Rust and Objective-C/Swift, binary format parsing. I'm
+also comfortable with C/C++, TypeScript, and Python for tooling.
 
-Hi 💁 ! It's JulMan ! I'm a french 🥖 developper and i love pasta 🍝. I'm developping [JulManBOT](https://l.julman.fr/click?target=http://bot.julman.fr/?rel=github) (a french Discord bot) and my [website](https://l.julman.fr/click?target=https://julman.fr/). You can join the JulManBOT Support Discord server (in french) [by clicking here](https://l.julman.fr/click?target=https%3A%2F%2Fdiscord.gg%2FUacZMU3fDt).
+## Recent projects
 
-```python
-display_skills()
-```
+- **[cpge](https://github.com/JulMan-Dev/cpge)** — Rust math library
+  for CPGE-level mathematics, with a Swift/Rust FFI bridge for
+  cross-platform AppKit graphics
+- **[nbt-editor](https://github.com/JulMan-Dev/nbt-editor)** — macOS
+  Minecraft NBT editor; Rust core (`NBTKit`) linked to an
+  Objective-C GUI via `objc2`
+- **[brainfuck](https://github.com/JulMan-Dev/brainfuck)** — brainfuck
+  interpreter, JIT compiler, and transpiler to C, with a small runtime
+  library
+- **[fers](https://github.com/JulMan-Dev/fers)** — a small
+  stack-based/concatenative language written in Rust
+- **[craftmodlite](https://github.com/JulMan-Dev/craftmodlite-public)**
+  — a large Minecraft mod (1.12.2): custom item transport networks,
+  recipes, tile abstractions
 
-[![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.julman.fr/)
-[![](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)](https://github.julman.fr/)
-[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.julman.fr/)
-[![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.julman.fr/)
-[![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.julman.fr/)
-[![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.julman.fr/)
-[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.julman.fr/)
-[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.julman.fr/)
-[![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.julman.fr/)
-[![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.julman.fr/)
-[![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.julman.fr/)
-[![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://github.julman.fr/)
-[![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.julman.fr/)
-[![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.julman.fr/)
-[![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.julman.fr/)
-[![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://github.julman.fr/)
+## Journey
+
+Started at 12, way too young in hindsight, but it stuck. Went through
+Discord bots and Bukkit/Forge plugins, picked up TypeScript and Python
+along the way, and have spent the last while going deeper into Rust,
+FFI, and low-level systems work.
+
+## Tools
+
+[Rust](https://rust-lang.org/) — [C](https://en.wikipedia.org/wiki/C_(programming_language)) — [Objective-C](https://en.wikipedia.org/wiki/Objective-C) — [TypeScript](https://www.typescriptlang.org/) — [Python](https://www.python.org/)
